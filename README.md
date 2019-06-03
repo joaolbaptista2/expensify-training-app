@@ -12,3 +12,11 @@ npm install
 npm run dev-server it will serve on localhost:8080
 ```
 
+#Git commands
+
+git init
+git status
+git add
+git commit
+git log
+
